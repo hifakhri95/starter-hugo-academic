@@ -40,7 +40,7 @@ experience:
     location: Tochigi, Japan
     date_start: '2018-07-01'
     date_end: '2019-12-31'
-    description: |2-
+    description: |1-
         Part of software team which develop various BMS (battery management system) ECU function such as security function, CAN-FD communication function, and hardware check function
 
 design:
