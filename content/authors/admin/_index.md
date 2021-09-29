@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fakhri Hidayat TEST
+title: Fakhri Hidayat
 
 # Is this the primary user of the site?
 superuser: true
