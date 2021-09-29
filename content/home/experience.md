@@ -33,7 +33,7 @@ experience:
         1. Developing embedded software for mechanical ventilator using eps32 micro-controller, free RTOS, and C++ language.
         2. Developing PLC software to acquire data from industrial machines/sensors, process the data, and send the data to the internet using MQTT/OPCUA protocol.
         
-  - title: Professor of Semiconductor Physics
+  - title: Embedded Software Engineer
     company: Keihin RnD Center
     company_url: ''
     company_logo: ''
@@ -41,7 +41,7 @@ experience:
     date_start: '2018-07-01'
     date_end: '2019-12-31'
     description: 
-      Part of software team which develop various BMS (battery management system) ECU function such as security function, CAN-FD communication function, and hardware check function
+        Part of software team which develop various BMS (battery management system) ECU function such as security function, CAN-FD communication function, and hardware check function
 
 design:
   columns: '2'
