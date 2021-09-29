@@ -14,14 +14,14 @@ organizations:
   url: https://www.titech.ac.jp/english
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include System Security and Computer Architecture.
 
 # Interests to show in About widget
 interests:
 - System Security
 - Computer Architecture
 - Embedded System
-- IoT
+- Internet of Things
 
 # Education to show in About widget
 education:
@@ -41,9 +41,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hifakhri95
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: 
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/hifakhri95
@@ -54,9 +54,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
