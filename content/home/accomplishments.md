@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://courses.edx.org/certificates/77d49063932849e5805dca846b3cc6bf
+- certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: ""
+  date_start: "2021-01-25"
   description: ""
-  organization: edX
-  organization_url: https://www.edx.org
-  title: 'Introduction to Computer Science and Programming Using Python'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Test
   url: ""
-- certificate_url: https://courses.edx.org/certificates/063689db8e194c708d4e863f7a8518af
+- certificate_url: https://www.edx.org
   date_end: ""
-  date_start: ""
-  description: ""
+  date_start: "2021-01-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
-  title: 'Computer System Design for Energy Efficiency'
-  url: ""
-- certificate_url: https://courses.edx.org/certificates/3b746ff11f7543d49bd8c786327ec7a3
-  date_end: ""
-  date_start: ""
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
   description: ""
-  organization: edX
-  organization_url: https://www.edx.org
-  title: 'Embedded System - Shape The World: Microcontroller Input/Output'
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R'
   url: ""
 
 design:
