@@ -35,6 +35,7 @@ item:
   date_end: "2021-07-10"
   date_start: ""
   description: ""
+  organization: edX
   organization_url: https://www.edx.org
   title: Embedded Systems - Shape The World: Microcontroller Input/Output
   url: ""
