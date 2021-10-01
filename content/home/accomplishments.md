@@ -31,22 +31,22 @@ item:
   organization_url: https://www.edx.org
   title: Computer System Design for Energy Efficiency
   url: ""
-- certificate_url: https://courses.edx.org/certificates/3b746ff11f7543d49bd8c786327ec7a3
-  date_end: "2021-07-10"
-  date_start: ""
-  description: ""
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Embedded Systems - Shape The World: Microcontroller Input/Output
-  url: ""
-- certificate_url: https://courses.edx.org/certificates/77d49063932849e5805dca846b3cc6bf
-  date_end: "2020-07-14"
-  date_start: ""
-  description: ""
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Introduction to Computer Science and Programming Using Python
-  url: ""
+# - certificate_url: https://courses.edx.org/certificates/3b746ff11f7543d49bd8c786327ec7a3
+#   date_end: "2021-07-10"
+#   date_start: ""
+#   description: ""
+#   organization: edX
+#   organization_url: https://www.edx.org
+#   title: Embedded Systems - Shape The World: Microcontroller Input/Output
+#   url: ""
+# - certificate_url: https://courses.edx.org/certificates/77d49063932849e5805dca846b3cc6bf
+#   date_end: "2020-07-14"
+#   date_start: ""
+#   description: ""
+#   organization: edX
+#   organization_url: https://www.edx.org
+#   title: Introduction to Computer Science and Programming Using Python
+#   url: ""
 
 design:
   columns: '2' 
