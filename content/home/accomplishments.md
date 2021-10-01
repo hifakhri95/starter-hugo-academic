@@ -24,28 +24,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://courses.edx.org/certificates/063689db8e194c708d4e863f7a8518af
-  date_end: ""
-  date_start: "2020-01-01"
+  date_end: "2020-06-03"
+  date_start: ""
   description: ""
   organization: edX
   organization_url: https://www.edx.org
   title: Computer System Design for Energy Efficiency
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+- certificate_url: https://courses.edx.org/certificates/3b746ff11f7543d49bd8c786327ec7a3
+  date_end: "2021-07-10"
+  date_start: ""
+  description: ""
+  organization_url: https://www.edx.org
+  title: Embedded Systems - Shape The World: Microcontroller Input/Output
+  url: ""
+- certificate_url: https://courses.edx.org/certificates/77d49063932849e5805dca846b3cc6bf
+  date_end: "2020-07-14"
+  date_start: ""
+  description: ""
   organization: edX
   organization_url: https://www.edx.org
-  title: test blockchain
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: Introduction to Computer Science and Programming Using Python
   url: ""
 
 design:
