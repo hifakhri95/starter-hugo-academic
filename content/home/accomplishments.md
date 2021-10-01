@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://courses.edx.org/certificates/063689db8e194c708d4e863f7a8518af
   date_end: ""
-  date_start: ""
+  date_start: "2020-01-01"
   description: ""
   organization: edX
   organization_url: https://www.edx.org
@@ -37,7 +37,7 @@ item:
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  title: test blockchain
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
