@@ -37,6 +37,4 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
 
-{{% /callout %}}
