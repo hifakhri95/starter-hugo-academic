@@ -67,4 +67,4 @@ highlight_name: true
 
 Hello, my name is Fakhri Hidayat and I am a Master's Student at Tokyo Institute of Technology. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
